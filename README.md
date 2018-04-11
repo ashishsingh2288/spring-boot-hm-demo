@@ -3,7 +3,7 @@
 **Time allocated to develop this project :** 1 day
 
 **Tech Stack Used :**
-1. Spring Boot 8
+1. Spring Boot
 2. Hibernate
 3. Thymeleaf (`Template`)
 4. HSQLDB (`Embedded`)
@@ -34,4 +34,4 @@
 4. Some JUnit tests using Mockito
 6. Preserved search history
 5. Standalone executable JAR file inside jar folder.
-(_`Usage`_ : java -jar from command line or double click file on windows to start server)
+(_Usage_ : `java -jar demo-0.0.1-SNAPSHOT.jar` from command line or double click file on windows to start server)
