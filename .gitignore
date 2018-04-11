@@ -1,5 +1,5 @@
 /target/
-!.mvn/wrapper/maven-wrapper.jar
+/app_db/
 
 ### STS ###
 .apt_generated
@@ -13,8 +13,6 @@
 ### IntelliJ IDEA ###
 .idea/
 .mvn/
-/app_db/
-/target/
 *.iws
 *.iml
 *.ipr
