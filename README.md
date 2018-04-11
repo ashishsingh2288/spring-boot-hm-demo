@@ -12,7 +12,7 @@
 7. JUnit
 8. Mockito
 9. Maven
-10. Git
+10. Tomcat (`Embedded`)
 11. IDE as `IntelliJ IDEA`
 
 
