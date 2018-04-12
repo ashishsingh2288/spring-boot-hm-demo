@@ -13,7 +13,9 @@
 8. Mockito
 9. Maven
 10. Tomcat (`Embedded`)
-11. IDE as `IntelliJ IDEA`
+11. SLF4J
+
+IDE as `IntelliJ IDEA`
 
 
 **What is not covered :**
